@@ -1,0 +1,16 @@
+id: AC04AFC63
+title: Khaḍgaviṣāṇasūtra
+type: translation
+pechas:
+- I81CD5849
+- I4E3423A7
+source_metadata:
+  languages:
+  - pi
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:08:42.261429
+  last_modified_at: 2023-02-08 15:08:42.261442
+alignment_to_base:
+  I81CD5849/35F2: 956D
+  I4E3423A7/20B0: 956D
